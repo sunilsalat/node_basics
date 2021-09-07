@@ -1,0 +1,15 @@
+{
+  "name": "node_tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-global_varible.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.12"
+  }
+}

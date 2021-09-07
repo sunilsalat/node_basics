@@ -1,0 +1,7 @@
+this file is generated with writeFileSync:
+ this is first txt
+, this is second txt
+ and some additional textthis file is generated with writeFileSync:
+ this is first txt
+, this is second txt
+ and some additional another text
